@@ -1,1 +1,6 @@
 cred.py
+venv
+spotipy
+.flask_session
+.cache
+__pycache__
